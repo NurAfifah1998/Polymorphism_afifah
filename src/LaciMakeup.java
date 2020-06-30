@@ -27,5 +27,6 @@ public class LaciMakeup {
         System.out.println("nama makeup\t:"+nama_makeup);
         System.out.println("jenis makeup\t:"+jenis_makeup);
         System.out.println("jumlah makeup\t"+jumlah_makeup);
+        System.out.println(karakter);
     }
 }

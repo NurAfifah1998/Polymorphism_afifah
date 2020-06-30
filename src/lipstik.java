@@ -3,6 +3,7 @@ public class lipstik extends LaciMakeup {
     int nomor_ketebalan;
 
     void tampilKeunikanDariLipstik(){
+        System.out.println("nama makeup\t:"+nama_makeup);
         System.out.println("merk Lipstik \t:"+merk_lipstik);
         System.out.println("nomor Ketebalan\t:"+nomor_ketebalan);
 

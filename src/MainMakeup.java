@@ -9,6 +9,8 @@ public class MainMakeup {
         laciMakeup.tampilData_makeup();
 
         //condtruktor
+        LaciMakeup lacimakeup2 = new LaciMakeup("dua","bedak Make over","bedak",2);
+        lacimakeup2.tampilData_makeup2("*******************************************");
 
 
 

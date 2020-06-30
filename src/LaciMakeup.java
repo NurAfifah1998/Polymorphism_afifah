@@ -22,6 +22,10 @@ public class LaciMakeup {
         System.out.println("jumlah makeup\t"+jumlah_makeup);
     }
 
-
-
+    void tampilData_makeup2(String karakter){
+        System.out.println("nama laci\t:"+nama_laci);
+        System.out.println("nama makeup\t:"+nama_makeup);
+        System.out.println("jenis makeup\t:"+jenis_makeup);
+        System.out.println("jumlah makeup\t"+jumlah_makeup);
+    }
 }
